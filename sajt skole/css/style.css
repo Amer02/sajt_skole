@@ -406,7 +406,7 @@ textarea {
 	color: #899ec4;
 	padding: 34px 0 26px 0;
 }
-/*
+
 h1 {
    margin: 10px 0 0 0;
 }
@@ -490,16 +490,16 @@ input:required, textarea:required {
    color: #E5E6E7;      
 }
 
-/* Hide success/failure message
+	/*Hide success/failure message
    (especially since the php is missing) */
-   /*
+   
 #failure, #success {
    color: #6EA070; 
    display:none;  
 }
 
 /* Make form look nice on smaller screens */
-/*
+
 @media only screen and (max-width: 580px) {
    #contact-form{
       left: 3%;
@@ -510,4 +510,3 @@ input:required, textarea:required {
       padding-right: 3%;
    }
 }
-*/
